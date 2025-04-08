@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const mongoDB = 'mongodb+srv://dubeyavanish166:Avanish%4017@cluster0.bwcos.mongodb.net/paytm';
+const mongoDB = 'database connection url';
 
 mongoose.connect(mongoDB);
 
