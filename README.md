@@ -43,7 +43,7 @@ payTM/
 │   └── assets/
 ├── package.json
 └── README.md
-
+```
 
 ## 🖥️ Setup Instructions
 
