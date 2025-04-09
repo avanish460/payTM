@@ -154,9 +154,8 @@ If you have any questions or suggestions, feel free to contact the repository ow
 
 -   **GitHub:**  [avanish460](https://github.com/avanish460)
 
-Code
-
 ```
 
-This updated README includes the MERN stack, Tailwind CSS
+
+This updated README includes the MERN stack, Tailwind CSS, and the setup instructions to run both the backend and frontend. Let me know if you'd like any further adjustments!
 ```
